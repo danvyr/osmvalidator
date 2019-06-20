@@ -12,6 +12,9 @@ Validation openstreetmap.org
     1. Run validation only for changed items
    
 
+links
+https://github.com/simon04/whodidit
+
 In future:
 
 check all changesets for  occurrences of points in to the validation area
